@@ -4,7 +4,7 @@ It is now availiable at http://chemsar.scbdd.com<br/>
 <br/>
 ![ChemSAR](http://chemsar.scbdd.com/static/img/home/modellab3.jpg)
 
-# Introduction
+## Introduction
 It is not easy for pharmaceutical chemist or medical researchers to perform a complete SAR modelling pipenining
 because of the requirements for programming skills when using package tools or software in most instances. Here, we developed a
 smart and easy-to-use platform, which can be used to work through the whole modelling process just by clicking mouse.  ChemSAR is able to accomplish six model generation steps: <br>
@@ -26,7 +26,7 @@ These six steps together with several assistant tools are designed as five main 
 
 Each of them not only could be utilized as one part of the whole pipelining, but also could be used alone.
 
-#Features
+## Features
 * (1) ChemSAR realized a whole online model building process, which enables medicinal chemists and biologists
 * to obtain predictive models conveniently without requiring tedious deployment and programming skills. 
 * (2) ChemSAR provided a comprehensive modelling pipelining, which integrated six model generation steps into the current web
